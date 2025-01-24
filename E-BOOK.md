@@ -40,6 +40,8 @@ O time foi organizado em funções essenciais. Henrique atribuiu responsabilidad
 Henrique trouxe para a sala uma pilha de livros, tutoriais impressos e um laptop carregado com links para vídeos no YouTube.  
 **"Vamos estudar juntos. Vamos ver quem tem mais afinidade com Linux, Docker, Kubernetes, Prometheus, Grafana, e todas as ferramentas que precisamos. Sem custo e com muita troca de ideias. Hoje começamos a montar o laboratório."**
 
+![Alt text](DALL·E%202025-01-23%2023.03.58%20-%20The%20IT%20team%20is%20working%20on%20their%20first%20Kubernetes%20cluster%20setup%20in%20their%20chaotic%20office.%20Marco,%20the%20clumsy%20support%20guy,%20is%20typing%20commands%20into%20a%20termi.webp "Title")
+
 A empolgação deu lugar à realidade quando Carlos descobriu que o primeiro passo era formatar os servidores, todos rodando versões antigas do Windows.  
 **"Henrique, temos um problema. Precisamos formatar, mas sem derrubar o serviço atual."**
 
@@ -73,6 +75,8 @@ Quando os pods subiram, a equipe comemorou como se tivesse vencido uma guerra. H
 O time suspirou.  
 **"É muita coisa,"** disse Luana, **"mas pelo menos agora sabemos que é possível."**
 
+![Alt text](DALL·E%202025-01-23%2023.04.01%20-%20The%20IT%20team%20celebrates%20after%20successfully%20running%20their%20first%20Kubernetes%20pod.%20Marco,%20the%20clumsy%20support%20guy,%20is%20holding%20a%20mug%20that%20says%20'Pod%20Master'%20w.webp "Title")
+
 ---
 
 ## **Página 4: O Teste Final**
@@ -101,7 +105,7 @@ Mas antes que pudessem comemorar, o cluster ficou offline. Time-out. Sem respost
 Carlos correu para o data center e encontrou o UPS principal desligado.  
 **"Morreu de vez,"** ele disse.
 
-!A modern anime-style IT office scene with diverse characters experiencing a chaotic but comedic disaster during their final presentation](DALL·E%202025-01-24%2000.02.13%20-%20A%20modern%20anime-style%20IT%20office%20scene%20with%20diverse%20characters%20experiencing%20a%20chaotic%20but%20comedic%20disaster%20during%20their%20final%20presentation.%20Henrique,%20th.webp "Title")
+![A modern anime-style IT office scene with diverse characters experiencing a chaotic but comedic disaster during their final presentation](DALL·E%202025-01-24%2000.02.13%20-%20A%20modern%20anime-style%20IT%20office%20scene%20with%20diverse%20characters%20experiencing%20a%20chaotic%20but%20comedic%20disaster%20during%20their%20final%20presentation.%20Henrique,%20th.webp "Title")
 
 Sem tempo para lamentações, a equipe improvisou. Desconectaram os no-breaks das estações de trabalho e religaram os servidores em tempo recorde. Contra todas as probabilidades, o cluster voltou sem perdas.
 
