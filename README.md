@@ -27,5 +27,6 @@ O e-book oferece uma abordagem criativa e prática para aprender sobre DevOps e 
 Esta experiência demonstrou como a narrativa criativa e o humor podem tornar o aprendizado técnico mais acessível e divertido. O maior aprendizado? A importância do trabalho em equipe e da curiosidade contínua. A tecnologia é poderosa, mas a criatividade e o aprendizado são insubstituíveis.
 
 🔗 **[Download do E-Book](./E-BOOK.md)**
+🔗 **[Download do Video Guerra DevOps](./"Eduardo e Mônica - Guerra DevOps.mp4")**
 
 ---
