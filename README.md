@@ -28,5 +28,6 @@ Esta experiência demonstrou como a narrativa criativa e o humor podem tornar o 
 
 🔗 **[Download do E-Book](./E-BOOK.md)**
 🔗 **[Download do Video Guerra DevOps](./Eduardo_e_Monica-Guerra_DevOps.mp4)**
+🔗 **[Download do MP3 Guerra DevOps](./Eduardo_e_Monica-Guerra_DevOps.mp3)**
 
 ---

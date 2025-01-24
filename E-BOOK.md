@@ -119,3 +119,5 @@ Henrique olhou para todos.
 **"Continuem aprendendo. Continuem explorando. E lembrem-se: o open-source está aqui para nos ajudar a fazer mágica com o impossível."**
 
 **Fim.**
+
+🔗 **[MP3 Guerra DevOps](./Eduardo_e_Monica-Guerra_DevOps.mp3)**
