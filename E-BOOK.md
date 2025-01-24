@@ -25,6 +25,8 @@ Henrique respirou fundo, ignorando os olhares incrédulos.
 Tatiane, a líder de TI, olhou para a pilha de servidores sucateados. Ela balançou a cabeça com um sorriso irônico.  
 **"Esses servidores capengas já não dão conta nem do que temos. Vários estão com pouca memória, discos mecânicos fazendo o 'click da morte'... Vamos precisar de muito café... e talvez de um milagre."**
 
+![Alt text](DALL·E%202025-01-23%2023.03.49%20-%20A%20cluttered%20IT%20office%20with%20old%20servers,%20cables%20tangled%20everywhere,%20and%20a%20whiteboard%20filled%20with%20the%20word%20'Kubernetes'%20surrounded%20by%20question%20marks%20and.webp "Title")
+
 ---
 
 ## **Página 2: O Início da Transformação**
@@ -83,6 +85,8 @@ Luana configurou o pipeline usando Jenkins, enquanto Marco monitorava os logs co
 
 Carlos, apesar do cansaço, conseguiu configurar storage persistente para os volumes mais críticos. O time começou a acreditar que poderia dar certo.
 
+![A modern anime-style IT office scene showing the team achieving progress with CI_CD pipelines](DALL·E%202025-01-24%2000.01.55%20-%20A%20modern%20anime-style%20IT%20office%20scene%20showing%20the%20team%20achieving%20progress%20with%20CI_CD%20pipelines.%20Henrique,%20the%20manager%20in%20a%20suit,%20looks%20proud%20as%20he%20obse.webp "Title")
+
 ---
 
 ## **Página 5: O Plot Twist**
@@ -96,6 +100,8 @@ Mas antes que pudessem comemorar, o cluster ficou offline. Time-out. Sem respost
 
 Carlos correu para o data center e encontrou o UPS principal desligado.  
 **"Morreu de vez,"** ele disse.
+
+!A modern anime-style IT office scene with diverse characters experiencing a chaotic but comedic disaster during their final presentation](DALL·E%202025-01-24%2000.02.13%20-%20A%20modern%20anime-style%20IT%20office%20scene%20with%20diverse%20characters%20experiencing%20a%20chaotic%20but%20comedic%20disaster%20during%20their%20final%20presentation.%20Henrique,%20th.webp "Title")
 
 Sem tempo para lamentações, a equipe improvisou. Desconectaram os no-breaks das estações de trabalho e religaram os servidores em tempo recorde. Contra todas as probabilidades, o cluster voltou sem perdas.
 
